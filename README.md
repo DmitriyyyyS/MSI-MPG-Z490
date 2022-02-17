@@ -1,2 +1,6 @@
 # MSI-MPG-Z490 G Plus
 MSI Z490 hackintosh
+
+СPU: I7-10700
+
+GPU: RX5700 XT
